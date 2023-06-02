@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/><a [href="https://github.com/vdavidanalyst/PortfolioProjects">Data Analyst</a>, <a href="https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248">Cybersecurity Analyst</a>, <a href=" ">Software Engineering Enthusiast</a></h1>
+<h1>Hi, I'm Victor! <br/> <a href="https://github.com/vdavidanalyst/PortfolioProjects">Data Analyst</a>, <a href="https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248">Cybersecurity Analyst</a>, <a href=" ">Software Engineering Enthusiast</a></h1>
 
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
@@ -10,7 +10,7 @@
 - <b>Excel</b>
   - [Creating Pivot Tables and Dashboards](https://github.com/vdavidanalyst/PortfolioProjects)
   - [Executive Dashboard of a Bikes Store](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/BikeStores_Executive_Dashboard_Project.xlsx)
- - <b>PowerBI Projects</b>
+- <b>PowerBI Projects</b>
   - [PowerBI Startup Visiualization](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/PowerBI_Project.pbix)
   - [Fitness App Tracker](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/fitness_tracker_app_design.pbix)
 - <b>Tableau Projects</b>
