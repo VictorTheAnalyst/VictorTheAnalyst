@@ -3,10 +3,13 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Exploration Project</b>
-  - [COVID Vaccination and Death Data Exploration using SQL](https://github.com/vdavidanalyst/PortfolioProjects)
-- <b>Data Cleaning</b>
+- <b>Data Cleaning and Data Exploration Project</b>
   - [Data Cleaning PortFolio Quaries using NashvilleHousing Data](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Data%20Cleaning%20PortFolio%20Project%20Quaries.sql)
+  - [COVID Vaccination and Death Data Exploration using SQL](https://github.com/vdavidanalyst/PortfolioProjects)
+- <b>Python Projects</b>
+  - [Automate Crypto API Extraction + Appending Data](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
+  - [Jumia WebScrapping Project](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/jumiaWebScrappingProject.ipynb)
+  - [Automatic File Sorter in Explorer](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automatic%20File%20Sorter%20in%20File%20Explorer.ipynb)
 - <b>Excel</b>
   - [Creating Pivot Tables and Dashboards](https://github.com/vdavidanalyst/PortfolioProjects)
   - [Executive Dashboard of a Bikes Store](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/BikeStores_Executive_Dashboard_Project.xlsx)
@@ -16,8 +19,7 @@
 - <b>Tableau Projects</b>
   - [Tableau AirBnB Project](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/AirBnB%20Full%20Project.twbx)
   - [Bike Sales Project](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Bike_Sales_Visualization.twbx)
-- <b>Python Projects</b>
-  - [Automatic File Sorter in Explorer](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automatic%20File%20Sorter%20in%20File%20Explorer.ipynb)
+
 
 
 
