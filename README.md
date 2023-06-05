@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Cleaning and Data Exploration Project</b>
+- <b>SQL Data Cleaning and Data Exploration Projects</b>
   - [Data Cleaning PortFolio Quaries using NashvilleHousing Data](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Data%20Cleaning%20PortFolio%20Project%20Quaries.sql)
-  - [COVID Vaccination and Death Data Exploration using SQL](https://github.com/vdavidanalyst/PortfolioProjects)
+  - [COVID Vaccination and Death Data Exploration](https://github.com/vdavidanalyst/PortfolioProjects)
 - <b>Python Projects</b>
   - [Automate Crypto API Extraction + Appending Data](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
   - [Jumia Web Scrapping](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/jumiaWebScrappingProject.ipynb)
