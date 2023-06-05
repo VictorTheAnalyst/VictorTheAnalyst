@@ -8,7 +8,7 @@
   - [COVID Vaccination and Death Data Exploration using SQL](https://github.com/vdavidanalyst/PortfolioProjects)
 - <b>Python Projects</b>
   - [Automate Crypto API Extraction + Appending Data](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
-  - [Jumia WebScrapping Project](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/jumiaWebScrappingProject.ipynb)
+  - [Jumia Web Scrapping](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/jumiaWebScrappingProject.ipynb)
   - [Automatic File Sorter in Explorer](https://github.com/vdavidanalyst/PortfolioProjects/blob/main/Automatic%20File%20Sorter%20in%20File%20Explorer.ipynb)
 - <b>Excel</b>
   - [Creating Pivot Tables and Dashboards](https://github.com/vdavidanalyst/PortfolioProjects)
