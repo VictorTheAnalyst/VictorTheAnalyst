@@ -67,6 +67,7 @@
 
 
 [linkedin]: https://https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248
+[my website]: https://vdavidanalyst.github.io/vdavidanalyst2.github.io/
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
