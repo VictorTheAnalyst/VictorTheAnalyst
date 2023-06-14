@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/> <a href="https://vdavidanalyst.github.io/vdavidanalyst2.github.io/">Data Analyst</a> and a <a href="https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Victor! <br/>I am a versatile professional skilled in <a href="https://vdavidanalyst.github.io/vdavidanalyst2.github.io/">data analysis</a> and <a href="https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248">cyber security</a>, adept at leveraging data insights to enhance security measures.</h1>
 
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
