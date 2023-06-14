@@ -24,7 +24,8 @@
 
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-- <b>C# (.NET Desktop Applications)</b>
+
+- <b>Python (.NET Desktop Applications)</b>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 
