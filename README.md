@@ -8,6 +8,7 @@
   - [Analysis-of-COVID-19-Cases-and-Vaccinations ](https://github.com/vdavidanalyst/Analysis-of-COVID-19-Cases-and-Vaccinations)
 - <b>Python Projects</b>
   - [Cryptocurrency-Data-Analysis-and-Visualization](https://github.com/vdavidanalyst/Cryptocurrency-Data-Analysis-and-Visualization)
+  - [Customer Churn Prediction](https://github.com/vdavidanalyst/Customer-Churn-Prediction/tree/main)
   - [Jumia-Web-Scrapper-and-Price-Tracker ](https://github.com/vdavidanalyst/Jumia-Web-Scrapper-and-Price-Tracker)
 - <b>Excel</b>
   - [Creating Pivot Tables and Dashboards](https://github.com/vdavidanalyst/Excel)
