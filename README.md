@@ -1,6 +1,15 @@
 <h1>Hi, I'm Victor! <br/>I am a versatile professional skilled in <a href="https://vdavidanalyst.github.io/vdavidanalyst2.github.io/">Data Analysis</a> and <a href="https://www.linkedin.com/in/victor-david-sarkibaka-5b7480248">Cyber Security</a>, adept at leveraging data insights to enhance security measures.</h1>
 
 
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+- <b>Python (.NET Desktop Applications)</b>
+  - [Keylogger with Email Capability](https://github.com/vdavidanalyst/Keylogger-with-Pynput)
+
+
+
+
+
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL Data Cleaning and Data Exploration Projects</b>
@@ -20,13 +29,6 @@
   - [Tableau AirBnB Project](https://public.tableau.com/app/profile/victor.david.sarkibaka)
   - [Bike Sales Project](https://public.tableau.com/app/profile/victor.david.sarkibaka)
 
-
-
-
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-- <b>Python (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/vdavidanalyst/Keylogger-with-Pynput)
 
 
 
